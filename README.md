@@ -6,6 +6,8 @@
   - [Hack4Impact Individual Contributor](#hack4impact-individual-contributor)
     - [Feedback Survey Automation](#feedback-survey-automation)
   - [Personal Projects](#personal-projects)
+    - [AV Clubs](#av-clubs)
+    - [Arroyo Del Website](#arroyo-del-website)
   - [Technologies](#technologies)
 
 ## About Me
@@ -26,7 +28,17 @@ As an individual contributor within Hack4Impact, I develop internal software and
 
 ## Personal Projects
 
-My personal projects revolve around helping my community by creating websites and tools for them to use. 
+My personal projects revolve around helping my community by creating websites and tools for them to use.
+
+### AV Clubs
+
+- [Website](https://clubs.amadorweb.org)
+- [Repo](https://github.com/avwebdev/av-clubs)
+
+### Arroyo Del Website
+
+- [Website](https://creek.amadorweb.org)
+- [Repo](https://github.com/subatuba21/creek)
 
 ## Technologies
 
