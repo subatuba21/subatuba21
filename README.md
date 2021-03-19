@@ -4,6 +4,7 @@
 - [Contents](#contents)
   - [About Me](#about-me)
   - [Hack4Impact Individual Contributor](#hack4impact-individual-contributor)
+    - [Feedback Survey Automation](#feedback-survey-automation)
   - [Personal Projects](#personal-projects)
   - [Technologies](#technologies)
 
@@ -19,9 +20,13 @@ Hack4Impact is a nonprofit that connects student software developers with nonpro
 
 As an individual contributor within Hack4Impact, I develop internal software and other products including developer guides, automation scripts, websites and more. Here are some of the H4I projects I have worked on:
 
+### Feedback Survey Automation
+
+[View Repository](https://github.com/hack4impact/feedback-survey-automation)
+
 ## Personal Projects
 
-My personal projects revolve around helping my school and other businesses by creating websites and tools for them to use. 
+My personal projects revolve around helping my community by creating websites and tools for them to use. 
 
 ## Technologies
 
