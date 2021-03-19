@@ -5,8 +5,8 @@
   - [Hack4Impact Individual Contributor](#hack4impact-individual-contributor)
     - [Feedback Survey Automation (View Repository)](#feedback-survey-automation-view-repository)
   - [Personal Projects](#personal-projects)
-    - [AV Clubs (View Re)](#av-clubs-view-re)
-    - [Arroyo Del Valle Website](#arroyo-del-valle-website)
+    - [AV Clubs (View Repository)](#av-clubs-view-repository)
+    - [Arroyo Del Valle Website (View Repository)](#arroyo-del-valle-website-view-repository)
   - [Technologies](#technologies)
 
 ## About Me
@@ -37,21 +37,19 @@ As an individual contributor within Hack4Impact, I develop internal software and
 
 My personal projects revolve around helping my community by creating websites and tools for them to use.
 
-### AV Clubs ([View Re](https://github.com/avwebdev/av-clubs))
+### AV Clubs ([View Repository](https://github.com/avwebdev/av-clubs))
 
 [Website](https://clubs.amadorweb.org)
 
+### Arroyo Del Valle Website ([View Repository](https://github.com/subatuba21/creek))
 
-### Arroyo Del Valle Website
-
-- [Website](https://creek.amadorweb.org)
-- [Repo](https://github.com/subatuba21/creek)
+[Website](https://creek.amadorweb.org)
 
 <p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"></a>
 <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></a>
-<a href="https://www.php.com/"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=#777BB4" alt="PHP"></a>
+<a href="https://www.php.com/"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"></a>
 </p>
 
 ## Technologies
