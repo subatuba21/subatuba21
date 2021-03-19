@@ -3,7 +3,7 @@
 - [Contents](#contents)
   - [About Me](#about-me)
   - [Hack4Impact Individual Contributor](#hack4impact-individual-contributor)
-    - [Feedback Survey Automation](#feedback-survey-automation)
+    - [Feedback Survey Automation (View Repository)](#feedback-survey-automation-view-repository)
   - [Personal Projects](#personal-projects)
     - [AV Clubs](#av-clubs)
     - [Arroyo Del Valle Website](#arroyo-del-valle-website)
@@ -21,9 +21,7 @@ Hack4Impact is a nonprofit that connects student software developers with nonpro
 
 As an individual contributor within Hack4Impact, I develop internal software and other products including developer guides, automation scripts, websites and more. Here are some of the H4I projects I have worked on:
 
-### Feedback Survey Automation
-
-[View Repository](https://github.com/hack4impact/feedback-survey-automation)
+### Feedback Survey Automation ([View Repository](https://github.com/hack4impact/feedback-survey-automation))
 
 <p>
 <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
