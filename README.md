@@ -2,15 +2,26 @@
 # Contents
 
 - [Contents](#contents)
-  - [About](#about)
-  - [Projects](#projects)
+  - [About Me](#about-me)
+  - [Hack4Impact Individual Contributor](#hack4impact-individual-contributor)
+  - [Personal Projects](#personal-projects)
   - [Technologies](#technologies)
 
-## About
+## About Me
 
-I am a passionate web developer determined to create helpful services and technologies.
+I am a passionate web developer determined to create helpful services and technologies. I currently am a student at Amador Valley High School, where I am an officer in two CS clubs. As a student of software development, I'm always looking forward to grow my skills and learn new technologies.
 
-## Projects
+## Hack4Impact Individual Contributor
+
+![Hack4Impact Logo](https://hack4impact.org/svg/logo.svg)
+
+Hack4Impact is a nonprofit that connects student software developers with nonprofits and other socially responsible businesses to develop powerful new tools for social change.
+
+As an individual contributor within Hack4Impact, I develop internal software and other products including developer guides, automation scripts, websites and more. Here are some of the H4I projects I have worked on:
+
+## Personal Projects
+
+My personal projects revolve around helping my school and other businesses by creating websites and tools for them to use. 
 
 ## Technologies
 
