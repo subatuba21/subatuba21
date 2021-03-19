@@ -24,13 +24,13 @@ As an individual contributor within Hack4Impact, I develop internal software and
 ### Feedback Survey Automation ([View Repository](https://github.com/hack4impact/feedback-survey-automation))
 
 <p>
-<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=appveyor=typescript&logoColor=white" alt="TypeScript"></a>
-<a href="https://developers.google.com/apps-script"><img src="https://img.shields.io/badge/Apps%20Script-34A853?style=flat-square&logo=appveyor=google&logoColor=white" alt="Apps Script"></a>
-<a href="https://airtable.com/"><img src="https://img.shields.io/badge/Airtable-FCB401?style=flat-square&logo=appveyor=airtable&logoColor=black" alt="Airtable"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=appveyor=html5&logoColor=white" alt="HTML5"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=appveyor=css3&logoColor=white" alt="CSS3"></a>
-<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=appveyor=javascript&logoColor=black" alt="JavaScript"></a>
-<a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=appveyor=github-actions&logoColor=white" alt="GitHub Actions"></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"></a>
+<a href="https://developers.google.com/apps-script"><img src="https://img.shields.io/badge/Apps%20Script-34A853?style=flat-square&logo=google&logoColor=white" alt="Apps Script"></a>
+<a href="https://airtable.com/"><img src="https://img.shields.io/badge/Airtable-FCB401?style=flat-square&logo=airtable&logoColor=black" alt="Airtable"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"></a>
+<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></a>
+<a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"></a>
 </p>
 
 ## Personal Projects
