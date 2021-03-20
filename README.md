@@ -5,8 +5,8 @@
   - [Hack4Impact Individual Contributor](#hack4impact-individual-contributor)
     - [Feedback Survey Automation (View Repository)](#feedback-survey-automation-view-repository)
   - [Personal Projects](#personal-projects)
-    - [AV Clubs (View Repository)](#av-clubs-view-repository)
-    - [Arroyo Del Valle Website (View Repository)](#arroyo-del-valle-website-view-repository)
+    - [AV Clubs (View Repository or [Website](https://clubs.amadorweb.org))](#av-clubs-view-repository-or-website)
+    - [Arroyo Del Valle Website (View Repository or [Website](https://clubs.amadorweb.org))](#arroyo-del-valle-website-view-repository-or-website)
   - [Technologies](#technologies)
 
 ## About Me
@@ -37,13 +37,9 @@ As an individual contributor within Hack4Impact, I develop internal software and
 
 My personal projects revolve around helping my community by creating websites and tools for them to use.
 
-### AV Clubs ([View Repository](https://github.com/avwebdev/av-clubs))
+### AV Clubs ([View Repository](https://github.com/avwebdev/av-clubs) or [Website](https://clubs.amadorweb.org))
 
-[Website](https://clubs.amadorweb.org)
-
-### Arroyo Del Valle Website ([View Repository](https://github.com/subatuba21/creek))
-
-[Website](https://creek.amadorweb.org)
+### Arroyo Del Valle Website ([View Repository](https://github.com/subatuba21/creek) or [Website](https://clubs.amadorweb.org))
 
 <p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"></a>
