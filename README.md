@@ -2,6 +2,8 @@
 
 ## A bit about me
 
+Currently, I'm a junior at Amador Valley High School. I have a deep interest in multiple facets of CS, including web development, data science, machine learning, and more. My projects so far have been centered around social good, creating helpul web interfaces for my high school and developing useful applications for Hack4Impact. 
+
 
 <!--
 **subatuba21/subatuba21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
